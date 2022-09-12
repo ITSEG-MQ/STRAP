@@ -47,5 +47,5 @@ Mutli-Module Autonomous Driving Systems*.
 5. run test reduction algorithm to generate segments `python run segment_split.py`
 
 6. run `python evaluate.py` to evaluate the test reduction and prioritization algorithms.
-   
-    
+
+As Apollo is a non-deterministic system, the running results on different machines may be different.
