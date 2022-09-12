@@ -1,0 +1,120 @@
+source file: ../modules/prediction/prediction_component.cc
+backup file: mutation_testing/original/0_prediction_component.cc
+Output written to mutation_testing/mutants/0_prediction_component.cc
+
+source file: ../modules/prediction/scenario/feature_extractor/feature_extractor.cc
+backup file: mutation_testing/original/1_feature_extractor.cc
+Output written to mutation_testing/mutants/1_feature_extractor.cc
+
+source file: ../modules/prediction/scenario/analyzer/scenario_analyzer.cc
+backup file: mutation_testing/original/2_scenario_analyzer.cc
+Output written to mutation_testing/mutants/2_scenario_analyzer.cc
+
+source file: ../modules/prediction/scenario/right_of_way/right_of_way.cc
+backup file: mutation_testing/original/3_right_of_way.cc
+Output written to mutation_testing/mutants/3_right_of_way.cc
+
+source file: ../modules/prediction/scenario/scenario_features/cruise_scenario_features.cc
+backup file: mutation_testing/original/4_cruise_scenario_features.cc
+Output written to mutation_testing/mutants/4_cruise_scenario_features.cc
+
+source file: ../modules/prediction/scenario/prioritization/obstacles_prioritizer.cc
+backup file: mutation_testing/original/5_obstacles_prioritizer.cc
+Output written to mutation_testing/mutants/5_obstacles_prioritizer.cc
+
+source file: ../modules/prediction/evaluator/evaluator_manager.cc
+backup file: mutation_testing/original/6_evaluator_manager.cc
+Output written to mutation_testing/mutants/6_evaluator_manager.cc
+
+source file: ../modules/prediction/evaluator/pedestrian/pedestrian_interaction_evaluator.cc
+backup file: mutation_testing/original/7_pedestrian_interaction_evaluator.cc
+Output written to mutation_testing/mutants/7_pedestrian_interaction_evaluator.cc
+
+source file: ../modules/prediction/evaluator/cyclist/cyclist_keep_lane_evaluator.cc
+backup file: mutation_testing/original/8_cyclist_keep_lane_evaluator.cc
+Output written to mutation_testing/mutants/8_cyclist_keep_lane_evaluator.cc
+
+source file: ../modules/prediction/evaluator/vehicle/cost_evaluator.cc
+backup file: mutation_testing/original/9_cost_evaluator.cc
+Output written to mutation_testing/mutants/9_cost_evaluator.cc
+
+source file: ../modules/prediction/evaluator/vehicle/rnn_evaluator.cc
+backup file: mutation_testing/original/10_rnn_evaluator.cc
+Output written to mutation_testing/mutants/10_rnn_evaluator.cc
+
+source file: ../modules/prediction/evaluator/vehicle/mlp_evaluator.cc
+backup file: mutation_testing/original/11_mlp_evaluator.cc
+Output written to mutation_testing/mutants/11_mlp_evaluator.cc
+
+source file: ../modules/prediction/evaluator/vehicle/lane_scanning_evaluator.cc
+backup file: mutation_testing/original/12_lane_scanning_evaluator.cc
+Output written to mutation_testing/mutants/12_lane_scanning_evaluator.cc
+
+source file: ../modules/prediction/evaluator/vehicle/cruise_mlp_evaluator.cc
+backup file: mutation_testing/original/13_cruise_mlp_evaluator.cc
+Output written to mutation_testing/mutants/13_cruise_mlp_evaluator.cc
+
+source file: ../modules/prediction/evaluator/vehicle/junction_mlp_evaluator.cc
+backup file: mutation_testing/original/14_junction_mlp_evaluator.cc
+Output written to mutation_testing/mutants/14_junction_mlp_evaluator.cc
+
+source file: ../modules/prediction/evaluator/vehicle/lane_aggregating_evaluator.cc
+backup file: mutation_testing/original/15_lane_aggregating_evaluator.cc
+Output written to mutation_testing/mutants/15_lane_aggregating_evaluator.cc
+
+source file: ../modules/prediction/evaluator/vehicle/junction_map_evaluator.cc
+backup file: mutation_testing/original/16_junction_map_evaluator.cc
+Output written to mutation_testing/mutants/16_junction_map_evaluator.cc
+
+source file: ../modules/prediction/common/feature_output.cc
+backup file: mutation_testing/original/17_feature_output.cc
+Output written to mutation_testing/mutants/17_feature_output.cc
+
+source file: ../modules/prediction/common/road_graph.cc
+backup file: mutation_testing/original/18_road_graph.cc
+Output written to mutation_testing/mutants/18_road_graph.cc
+
+source file: ../modules/prediction/common/prediction_gflags.cc
+backup file: mutation_testing/original/19_prediction_gflags.cc
+Output written to mutation_testing/mutants/19_prediction_gflags.cc
+
+source file: ../modules/prediction/common/prediction_system_gflags.cc
+backup file: mutation_testing/original/20_prediction_system_gflags.cc
+Output written to mutation_testing/mutants/20_prediction_system_gflags.cc
+
+source file: ../modules/prediction/common/validation_checker.cc
+backup file: mutation_testing/original/21_validation_checker.cc
+Output written to mutation_testing/mutants/21_validation_checker.cc
+
+source file: ../modules/prediction/common/prediction_util.cc
+backup file: mutation_testing/original/22_prediction_util.cc
+Output written to mutation_testing/mutants/22_prediction_util.cc
+
+source file: ../modules/prediction/common/semantic_map.cc
+backup file: mutation_testing/original/23_semantic_map.cc
+Output written to mutation_testing/mutants/23_semantic_map.cc
+
+source file: ../modules/prediction/common/junction_analyzer.cc
+backup file: mutation_testing/original/24_junction_analyzer.cc
+Output written to mutation_testing/mutants/24_junction_analyzer.cc
+
+source file: ../modules/prediction/common/message_process.cc
+backup file: mutation_testing/original/25_message_process.cc
+Output written to mutation_testing/mutants/25_message_process.cc
+
+source file: ../modules/prediction/common/prediction_map.cc
+backup file: mutation_testing/original/26_prediction_map.cc
+Output written to mutation_testing/mutants/26_prediction_map.cc
+
+source file: ../modules/prediction/common/prediction_thread_pool.cc
+backup file: mutation_testing/original/27_prediction_thread_pool.cc
+Output written to mutation_testing/mutants/27_prediction_thread_pool.cc
+
+source file: ../modules/prediction/common/environment_features.cc
+backup file: mutation_testing/original/28_environment_features.cc
+Output written to mutation_testing/mutants/28_environment_features.cc
+
+source file: ../modules/prediction/pipeline/records_to_offline_data.cc
+backup file: mutation_testing/original/29_records_to_offline_data.cc
+Output written to mutation_testing/mutants/29_records_to_offline_data.cc
+

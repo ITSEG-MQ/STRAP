@@ -1,0 +1,120 @@
+source file: ../modules/planning/scenarios/stage.cc
+backup file: mutation_testing/original/0_stage.cc
+Output written to mutation_testing/mutants/0_stage.cc
+
+source file: ../modules/planning/scenarios/stage_intersection_cruise_impl.cc
+backup file: mutation_testing/original/1_stage_intersection_cruise_impl.cc
+Output written to mutation_testing/mutants/1_stage_intersection_cruise_impl.cc
+
+source file: ../modules/planning/scenarios/scenario_manager.cc
+backup file: mutation_testing/original/2_scenario_manager.cc
+Output written to mutation_testing/mutants/2_scenario_manager.cc
+
+source file: ../modules/planning/scenarios/scenario.cc
+backup file: mutation_testing/original/3_scenario.cc
+Output written to mutation_testing/mutants/3_scenario.cc
+
+source file: ../modules/planning/scenarios/stop_sign/unprotected/stage_pre_stop.cc
+backup file: mutation_testing/original/4_stage_pre_stop.cc
+Output written to mutation_testing/mutants/4_stage_pre_stop.cc
+
+source file: ../modules/planning/scenarios/stop_sign/unprotected/stage_intersection_cruise.cc
+backup file: mutation_testing/original/5_stage_intersection_cruise.cc
+Output written to mutation_testing/mutants/5_stage_intersection_cruise.cc
+
+source file: ../modules/planning/scenarios/stop_sign/unprotected/stop_sign_unprotected_scenario.cc
+backup file: mutation_testing/original/6_stop_sign_unprotected_scenario.cc
+Output written to mutation_testing/mutants/6_stop_sign_unprotected_scenario.cc
+
+source file: ../modules/planning/scenarios/stop_sign/unprotected/stage_stop.cc
+backup file: mutation_testing/original/7_stage_stop.cc
+Output written to mutation_testing/mutants/7_stage_stop.cc
+
+source file: ../modules/planning/scenarios/stop_sign/unprotected/stage_creep.cc
+backup file: mutation_testing/original/8_stage_creep.cc
+Output written to mutation_testing/mutants/8_stage_creep.cc
+
+source file: ../modules/planning/scenarios/lane_follow/lane_follow_stage.cc
+backup file: mutation_testing/original/9_lane_follow_stage.cc
+Output written to mutation_testing/mutants/9_lane_follow_stage.cc
+
+source file: ../modules/planning/scenarios/park/valet_parking/valet_parking_scenario.cc
+backup file: mutation_testing/original/10_valet_parking_scenario.cc
+Output written to mutation_testing/mutants/10_valet_parking_scenario.cc
+
+source file: ../modules/planning/scenarios/park/valet_parking/stage_approaching_parking_spot.cc
+backup file: mutation_testing/original/11_stage_approaching_parking_spot.cc
+Output written to mutation_testing/mutants/11_stage_approaching_parking_spot.cc
+
+source file: ../modules/planning/scenarios/park/pull_over/stage_approach.cc
+backup file: mutation_testing/original/12_stage_approach.cc
+Output written to mutation_testing/mutants/12_stage_approach.cc
+
+source file: ../modules/planning/scenarios/park/pull_over/pull_over_scenario.cc
+backup file: mutation_testing/original/13_pull_over_scenario.cc
+Output written to mutation_testing/mutants/13_pull_over_scenario.cc
+
+source file: ../modules/planning/scenarios/park/pull_over/stage_retry_approach_parking.cc
+backup file: mutation_testing/original/14_stage_retry_approach_parking.cc
+Output written to mutation_testing/mutants/14_stage_retry_approach_parking.cc
+
+source file: ../modules/planning/scenarios/park/pull_over/stage_retry_parking.cc
+backup file: mutation_testing/original/15_stage_retry_parking.cc
+Output written to mutation_testing/mutants/15_stage_retry_parking.cc
+
+source file: ../modules/planning/scenarios/bare_intersection/unprotected/stage_approach.cc
+backup file: mutation_testing/original/16_stage_approach.cc
+Output written to mutation_testing/mutants/16_stage_approach.cc
+
+source file: ../modules/planning/scenarios/bare_intersection/unprotected/stage_intersection_cruise.cc
+backup file: mutation_testing/original/17_stage_intersection_cruise.cc
+Output written to mutation_testing/mutants/17_stage_intersection_cruise.cc
+
+source file: ../modules/planning/scenarios/bare_intersection/unprotected/bare_intersection_unprotected_scenario.cc
+backup file: mutation_testing/original/18_bare_intersection_unprotected_scenario.cc
+Output written to mutation_testing/mutants/18_bare_intersection_unprotected_scenario.cc
+
+source file: ../modules/planning/scenarios/util/util.cc
+backup file: mutation_testing/original/19_util.cc
+Output written to mutation_testing/mutants/19_util.cc
+
+source file: ../modules/planning/scenarios/traffic_light/unprotected_left_turn/stage_intersection_cruise.cc
+backup file: mutation_testing/original/20_stage_intersection_cruise.cc
+Output written to mutation_testing/mutants/20_stage_intersection_cruise.cc
+
+source file: ../modules/planning/scenarios/traffic_light/unprotected_left_turn/traffic_light_unprotected_left_turn_scenario.cc
+backup file: mutation_testing/original/21_traffic_light_unprotected_left_turn_scenario.cc
+Output written to mutation_testing/mutants/21_traffic_light_unprotected_left_turn_scenario.cc
+
+source file: ../modules/planning/scenarios/traffic_light/unprotected_left_turn/stage_creep.cc
+backup file: mutation_testing/original/22_stage_creep.cc
+Output written to mutation_testing/mutants/22_stage_creep.cc
+
+source file: ../modules/planning/scenarios/traffic_light/protected/stage_approach.cc
+backup file: mutation_testing/original/23_stage_approach.cc
+Output written to mutation_testing/mutants/23_stage_approach.cc
+
+source file: ../modules/planning/scenarios/traffic_light/protected/stage_intersection_cruise.cc
+backup file: mutation_testing/original/24_stage_intersection_cruise.cc
+Output written to mutation_testing/mutants/24_stage_intersection_cruise.cc
+
+source file: ../modules/planning/scenarios/traffic_light/protected/traffic_light_protected_scenario.cc
+backup file: mutation_testing/original/25_traffic_light_protected_scenario.cc
+Output written to mutation_testing/mutants/25_traffic_light_protected_scenario.cc
+
+source file: ../modules/planning/scenarios/traffic_light/unprotected_right_turn/stage_intersection_cruise.cc
+backup file: mutation_testing/original/26_stage_intersection_cruise.cc
+Output written to mutation_testing/mutants/26_stage_intersection_cruise.cc
+
+source file: ../modules/planning/scenarios/traffic_light/unprotected_right_turn/traffic_light_unprotected_right_turn_scenario.cc
+backup file: mutation_testing/original/27_traffic_light_unprotected_right_turn_scenario.cc
+Output written to mutation_testing/mutants/27_traffic_light_unprotected_right_turn_scenario.cc
+
+source file: ../modules/planning/scenarios/traffic_light/unprotected_right_turn/stage_stop.cc
+backup file: mutation_testing/original/28_stage_stop.cc
+Output written to mutation_testing/mutants/28_stage_stop.cc
+
+source file: ../modules/planning/scenarios/traffic_light/unprotected_right_turn/stage_creep.cc
+backup file: mutation_testing/original/29_stage_creep.cc
+Output written to mutation_testing/mutants/29_stage_creep.cc
+

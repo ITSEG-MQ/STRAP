@@ -1,0 +1,36 @@
+source file: ../modules/perception/camera/lib/traffic_light/preprocessor/multi_camera_projection.cc
+backup file: mutation_testing/original/0_multi_camera_projection.cc
+Output written to mutation_testing/mutants/0_multi_camera_projection.cc
+
+source file: ../modules/perception/camera/lib/traffic_light/preprocessor/tl_preprocessor.cc
+backup file: mutation_testing/original/1_tl_preprocessor.cc
+Output written to mutation_testing/mutants/1_tl_preprocessor.cc
+
+source file: ../modules/perception/camera/lib/traffic_light/preprocessor/pose.cc
+backup file: mutation_testing/original/2_pose.cc
+Output written to mutation_testing/mutants/2_pose.cc
+
+source file: ../modules/perception/camera/lib/traffic_light/tracker/semantic_decision.cc
+backup file: mutation_testing/original/3_semantic_decision.cc
+Output written to mutation_testing/mutants/3_semantic_decision.cc
+
+source file: ../modules/perception/camera/lib/traffic_light/detector/recognition/classify.cc
+backup file: mutation_testing/original/4_classify.cc
+Output written to mutation_testing/mutants/4_classify.cc
+
+source file: ../modules/perception/camera/lib/traffic_light/detector/recognition/recognition.cc
+backup file: mutation_testing/original/5_recognition.cc
+Output written to mutation_testing/mutants/5_recognition.cc
+
+source file: ../modules/perception/camera/lib/traffic_light/detector/detection/detection.cc
+backup file: mutation_testing/original/6_detection.cc
+Output written to mutation_testing/mutants/6_detection.cc
+
+source file: ../modules/perception/camera/lib/traffic_light/detector/detection/select.cc
+backup file: mutation_testing/original/7_select.cc
+Output written to mutation_testing/mutants/7_select.cc
+
+source file: ../modules/perception/camera/lib/traffic_light/detector/detection/cropbox.cc
+backup file: mutation_testing/original/8_cropbox.cc
+Output written to mutation_testing/mutants/8_cropbox.cc
+
